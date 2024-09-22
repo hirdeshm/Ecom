@@ -1,0 +1,15 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/on_boarding_gif/16e83113765711.56277d220a938.gif
+  branding: assets/branding-development.png
+  color_dark: "#121212"
+  image_dark: assets/images/on_boarding_gif/16e83113765711.56277d220a938.gif
+
+
+  android_12:
+    image: assets/images/on_boarding_gif/16e83113765711.56277d220a938.gif
+    icon_background_color: "#ffffff"
+    image_dark: assets/images/on_boarding_gif/16e83113765711.56277d220a938.gif
+    icon_background_color_dark: "#121212"
+
+  web: false
